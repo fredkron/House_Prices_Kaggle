@@ -1,1 +1,2 @@
-# House_Prices_Kaggle
+# House Prices Kaggle
+A Data Science project from Vivadata.
